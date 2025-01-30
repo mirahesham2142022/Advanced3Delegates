@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XPRISTO\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA43FB8-644F-45DE-82E8-7D857C83C34B}|ConsoleApp1.csproj|c:\\users\\xpristo\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA43FB8-644F-45DE-82E8-7D857C83C34B}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA43FB8-644F-45DE-82E8-7D857C83C34B}|ConsoleApp1.csproj|c:\\users\\xpristo\\source\\repos\\consoleapp1\\sortingtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA43FB8-644F-45DE-82E8-7D857C83C34B}|ConsoleApp1.csproj|solutionrelative:sortingtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA43FB8-644F-45DE-82E8-7D857C83C34B}|ConsoleApp1.csproj|c:\\users\\xpristo\\source\\repos\\consoleapp1\\sortingalogrithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA43FB8-644F-45DE-82E8-7D857C83C34B}|ConsoleApp1.csproj|solutionrelative:sortingalogrithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA43FB8-644F-45DE-82E8-7D857C83C34B}|ConsoleApp1.csproj|c:\\users\\xpristo\\source\\repos\\consoleapp1\\icustomcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA43FB8-644F-45DE-82E8-7D857C83C34B}|ConsoleApp1.csproj|solutionrelative:icustomcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortingTypes.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\ConsoleApp1\\SortingTypes.cs",
+              "RelativeDocumentMoniker": "SortingTypes.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\ConsoleApp1\\SortingTypes.cs",
+              "RelativeToolTip": "SortingTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:58:36.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomComparer.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\ConsoleApp1\\ICustomComparer.cs",
+              "RelativeDocumentMoniker": "ICustomComparer.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\ConsoleApp1\\ICustomComparer.cs",
+              "RelativeToolTip": "ICustomComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:25:10.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortingAlogrithms.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\ConsoleApp1\\SortingAlogrithms.cs",
+              "RelativeDocumentMoniker": "SortingAlogrithms.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\ConsoleApp1\\SortingAlogrithms.cs",
+              "RelativeToolTip": "SortingAlogrithms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:13:07.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswN0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:07:05.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
