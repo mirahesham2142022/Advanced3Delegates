@@ -1,0 +1,15 @@
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\AdvancedQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\AdvancedQuestions.AssemblyInfoInputs.cache
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\AdvancedQuestions.AssemblyInfo.cs
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\AdvancedQuestions.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\AdvancedQuestions.sourcelink.json
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\bin\Debug\net8.0\AdvancedQuestions.exe
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\bin\Debug\net8.0\AdvancedQuestions.deps.json
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\bin\Debug\net8.0\AdvancedQuestions.runtimeconfig.json
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\bin\Debug\net8.0\AdvancedQuestions.dll
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\bin\Debug\net8.0\AdvancedQuestions.pdb
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\AdvancedQuestions.dll
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\refint\AdvancedQuestions.dll
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\AdvancedQuestions.pdb
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\AdvancedQuestions.genruntimeconfig.cache
+C:\Users\XPRISTO\source\repos\AdvancedQuestions\obj\Debug\net8.0\ref\AdvancedQuestions.dll
