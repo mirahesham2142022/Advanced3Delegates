@@ -1,4 +1,9 @@
 ﻿using System.Diagnostics;
+using System.Reflection.Metadata.Ecma335;
+using static System.Reflection.Metadata.BlobBuilder;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace AdvancedQuestions
 {
@@ -6,21 +11,38 @@ namespace AdvancedQuestions
     {
         static void Main(string[] args)
         {
-           
-            List<Book> books = new List<Book>()
+
+            List<Book> blist = new List<Book>()
             {
-                new Book("9102830", "Titanic", new string[] { "Mira", "Dina" }, new DateTime(2024, 12, 3), 9000),
-                new Book("9102831", "Power of now ", new string[] { "Anony hopkins" }, new DateTime(1925, 4, 10), 1200),
-                new Book("9102832", "Talent is overrated", new string[] { "IOk" }, new DateTime(1949, 6, 8), 1500)
+                new Book("78654","Titanic",new string[]{"mira","dina"},new DateTime(2024-03-16),65445),
+                new Book("77654","PowerOfNw",new string[]{"Antony hopkins"},new DateTime(2024-03-16),64999),
+                new Book("790854","TALENT IS OVERRATED",new string[]{"IOK"},new DateTime(2024-03-16),1044),
+
             };
+            
+            //LibraryEngine.ProcessBooks(blist, BookFunctions.GetTitle);
+            //LibraryEngine.ProcessBooks(blist, BookFunctions.GetPrice);
+            //LibraryEngine.ProcessBooks(blist, BookFunctions.GetAuthors);
+  
+            // a. User Defined Delegate
+            BookDelegate titleDelegate = new BookDelegate(BookFunctions.GetTitle);
+            LibraryEngine.ProcessBooks(blist, titleDelegate);
+
+            // b. BCL Delegates (Using Func<Book, string>)
+            Func<Book, string> authorDelegate = BookFunctions.GetAuthors;
+            LibraryEngine.ProcessBooks(blist, authorDelegate);
 
 
-            //Func<Book, string> getISBN = delegate (Book B) { return B.ISBN; };
-            Func<Book, string> getTitle = book => $"Book Title: {book.Title}";
-            // LibraryEngine.ProcessBooks(books, getISBN);
-            LibraryEngine.ProcessBooks(books, getTitle);
+            // c. AnonymousMethod
+            BookDelegate isbnDelegate = delegate (Book B)
+            {
+                return B.ISBN;
+            };
+            LibraryEngine.ProcessBooks(blist, isbnDelegate);
 
-
+            // d. LambdaExpression
+            Func<Book, string> pubDateDelegate = B => B.PublicationDate.ToString(); 
+            LibraryEngine.ProcessBooks(blist, pubDateDelegate);
         }
     }
 }

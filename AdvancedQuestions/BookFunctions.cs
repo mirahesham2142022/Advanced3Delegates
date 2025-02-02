@@ -14,7 +14,7 @@ namespace AdvancedQuestions
         }
         public static string GetAuthors(Book B)
         {
-            return B.Authors.ToString();
+            return string.Join(" ",B.Authors);
         }
         public static string GetPrice(Book B)
         {

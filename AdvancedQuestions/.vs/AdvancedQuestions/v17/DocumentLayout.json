@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{6BA531E8-8151-4023-B6D9-9985BB1EBC94}|AdvancedQuestions.csproj|solutionrelative:libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BA531E8-8151-4023-B6D9-9985BB1EBC94}|AdvancedQuestions.csproj|c:\\users\\xpristo\\source\\repos\\advancedquestions\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA531E8-8151-4023-B6D9-9985BB1EBC94}|AdvancedQuestions.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BA531E8-8151-4023-B6D9-9985BB1EBC94}|AdvancedQuestions.csproj|c:\\users\\xpristo\\source\\repos\\advancedquestions\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BA531E8-8151-4023-B6D9-9985BB1EBC94}|AdvancedQuestions.csproj|solutionrelative:bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA531E8-8151-4023-B6D9-9985BB1EBC94}|AdvancedQuestions.csproj|c:\\users\\xpristo\\source\\repos\\advancedquestions\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA531E8-8151-4023-B6D9-9985BB1EBC94}|AdvancedQuestions.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,33 +44,33 @@
               "RelativeDocumentMoniker": "LibraryEngine.cs",
               "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\AdvancedQuestions\\LibraryEngine.cs",
               "RelativeToolTip": "LibraryEngine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T16:14:32.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\AdvancedQuestions\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
               "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\AdvancedQuestions\\Book.cs",
               "RelativeToolTip": "Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAATAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T16:13:52.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BookFunctions.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\AdvancedQuestions\\BookFunctions.cs",
               "RelativeDocumentMoniker": "BookFunctions.cs",
               "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\AdvancedQuestions\\BookFunctions.cs",
               "RelativeToolTip": "BookFunctions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T16:13:44.786Z",
               "EditorCaption": ""
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\AdvancedQuestions\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T16:03:09.382Z",
               "EditorCaption": ""
